@@ -1,4 +1,10 @@
-.header-image {
+body {
+  background-color: white;
+}
+#elonMuskImage {
+  height: 350px;
+  width: 250px;
+  border-radius: 50%;
   background-color: white;
   display: flex;
   align-items: left;
@@ -6,18 +12,21 @@
   float: left;
   padding-left: 10px;
 }
-body {
-  background-color: white;
-}
-#elonMuskImage {
-  height: 400px;
-  width: 400px;
-  border-radius: 50%;
-}
 h1 {
   text-align: center;
   float: center;
   padding-right: 200px;
   font-size: 50px;
   font-family: "Courier New", Courier, monospace;
+  text-decoration-line: underline;
+}
+h2 {
+  float: center;
+  text-align: center;
+  padding-right: 200px;
+}
+#whoIs {
+  text-align: center;
+  float: center;
+  padding-left: 100px;
 }
