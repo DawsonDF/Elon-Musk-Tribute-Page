@@ -15,18 +15,21 @@ body {
 h1 {
   text-align: center;
   float: center;
-  padding-right: 200px;
+
   font-size: 50px;
   font-family: "Courier New", Courier, monospace;
   text-decoration-line: underline;
+  text-shadow: 1px 1px 0px #ff0000;
 }
 h2 {
   float: center;
   text-align: center;
-  padding-right: 200px;
 }
 #whoIs {
   text-align: center;
   float: center;
   padding-left: 100px;
+}
+h3 {
+  text-align: center;
 }
