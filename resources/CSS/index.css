@@ -1,0 +1,19 @@
+.header-image {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+body {
+  background-color: white;
+}
+#elonMuskImage {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+}
+h1 {
+  text-align: center;
+  margin-top: px;
+}
